@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, Call me Quynh 😊</h1>
-### Contact me <thanhquynh610@gmail.com> ❤️
+<h3 align="center">Java developer ❤️</h3>
   
 ### Top languages: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhquynh106&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
