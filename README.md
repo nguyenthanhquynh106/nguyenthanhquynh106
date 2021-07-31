@@ -1,8 +1,12 @@
 <h1 align="center">Hi there 👋, Call me Quynh 😊</h1>
-<h3 align="center">Contact me <thanhquynh610@gmail.com> ❤️</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhquynh106&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">Contact me <thanhquynh610@gmail.com> ❤️</p>
   
+<div align="left">
+  ### Top languages: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhquynh106&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  
+<div align="right">
   ### My Skills:  
 <a href = "#" target="_blank">
   <img 
@@ -53,3 +57,4 @@
     height="50px"
   />
 </a>
+<div>
