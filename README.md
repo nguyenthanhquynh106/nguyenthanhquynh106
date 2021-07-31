@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, Call me Quynh 😊</h1>
+<h3 align="center">Contact me: [Facebook](https://www.facebook.com/profile.php?id=100021757613098) ❤️</h3>
 ### Contact me <thanhquynh610@gmail.com> ❤️
   
 ### Top languages: 
@@ -26,6 +27,13 @@
     height="50px"
   />
 </a>
+<a href = "#" target="_blank">
+  <img 
+    title = "Bootstrap"
+    src = "https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg"
+    height="50px"
+  />
+</a>
 <a href="#" target="_blank">
   <img
     title = "Jquery"
@@ -33,21 +41,21 @@
     height="50px"
   />
 </a>
-<a href = "https://docs.oracle.com/javase/7/docs/technotes/guides/language/" target="_blank">
+<a href = "#" target="_blank">
   <img 
     title = "Java"
     src = "https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/java/java.svg"
     height="50px"
   />
 </a>
-<a href = "https://reactjs.org/" target="_blank">
+<a href = "#" target="_blank">
   <img 
     title = "Spring Boot"
     src = "https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/spring/spring.svg"
     height="50px"
   />
 </a>
-<a href = "https://reactjs.org/" target="_blank">
+<a href = "#" target="_blank">
   <img 
     title = "React JS"
     src = "https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/react/react.svg"
