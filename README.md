@@ -1,13 +1,10 @@
 <h1 align="center">Hi there 👋, Call me Quynh 😊</h1>
-<p align="center">Contact me <thanhquynh610@gmail.com> ❤️</p>
+### Contact me <thanhquynh610@gmail.com> ❤️
   
-<div align="left">
-  ### Top languages: 
+### Top languages: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhquynh106&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<div>
   
-<div align="right">
-  ### My Skills:  
+### My Skills:  
 <a href = "#" target="_blank">
   <img 
     title = "HTML"
@@ -57,4 +54,3 @@
     height="50px"
   />
 </a>
-<div>
