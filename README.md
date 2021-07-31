@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, Call me Quynh 😊</h1>
+<h1 align="center">Hi there 👋, call me Quynh 😊</h1>
 <h2 align="center">I'm a Java developer ❤️</h2>
   
 ### Top languages: 
