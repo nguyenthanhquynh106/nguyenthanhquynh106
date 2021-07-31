@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, Call me Quynh 😊</h1>
-<h3 align="center">Contact me: [Facebook](https://www.facebook.com/profile.php?id=100021757613098) ❤️</h3>
 ### Contact me <thanhquynh610@gmail.com> ❤️
   
 ### Top languages: 
