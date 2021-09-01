@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, call me Quynh 😊</h1>
 <h2 align="center">I'm a Java developer ❤️</h2>
   
-### My Skills:  
+<div align="center">
+  ### My Skills:  
 <a href = "#" target="_blank">
   <img 
     title = "HTML"
@@ -58,3 +59,4 @@
     height="50px"
   />
 </a>
+</div>
