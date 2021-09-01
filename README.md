@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, call me Quynh 😊</h1>
 <h2 align="center">I'm a Java developer ❤️</h2>
-  
+<br />
+<h1 align="center">My skills</h1>
 <div align="center">
-  ### My Skills:  
 <a href = "#" target="_blank">
   <img 
     title = "HTML"
