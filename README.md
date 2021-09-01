@@ -1,9 +1,6 @@
 <h1 align="center">Hi there 👋, call me Quynh 😊</h1>
 <h2 align="center">I'm a Java developer ❤️</h2>
   
-### Top languages: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhquynh106&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
 ### My Skills:  
 <a href = "#" target="_blank">
   <img 
